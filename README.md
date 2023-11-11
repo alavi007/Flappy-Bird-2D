@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an extremely close clone to the original Flappy Bird game by Dong Nguyen.
+This is an extremely close clone to the original Flappy Bird game by Dong Ngyen.
 
 ## Brief Summary
 
