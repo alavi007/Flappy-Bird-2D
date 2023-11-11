@@ -12,7 +12,8 @@ This is an extremely close clone to the original Flappy Bird game by Dong Nguyen
 
 ## Instructions on how to play the game
 
-To start, you can either press the spacebar or right-click your mouse on the play button. Use SPACEBAR to control the bird. Try to avoid obstacles for as long as possible to see how high you can get your score.
+- To start, you can either press the spacebar or right-click your mouse on the play button. Use SPACEBAR to control the bird.
+- Try to avoid obstacles for as long as possible to see how high you can get your score.
 
 ## Play the game here
 
