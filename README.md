@@ -14,6 +14,10 @@ This is an extremely close clone to the original Flappy Bird game by Dong Nguyen
 
 To start, you can either press the spacebar or right-click your mouse on the play button. Use SPACEBAR to control the bird. Try to avoid obstacles for as long as possible to see how high you can get your score.
 
+## Play the game here
+
+https://play.unity.com/mg/other/webgl-projects-2-1
+
 ## Preview
 
 <img width="383" alt="flappybird" src="https://github.com/alavi007/Flappy-Bird-2D/assets/112198239/63063b9b-ecf3-4dea-afc1-b72e968332f8">
