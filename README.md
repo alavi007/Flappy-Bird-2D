@@ -17,7 +17,7 @@ This is an extremely close clone to the original Flappy Bird game by Dong Nguyen
 
 ## Play the game here
 
-https://play.unity.com/mg/other/webgl-projects-2-1
+https://play.unity.com/mg/other/wgl-p14-flappy-bird
 
 ## Preview
 
